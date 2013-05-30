@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Calemun-FJ-21"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0" scope="PROVIDED"/>
+	<levels>
+		<level name="mysql-connector-java-5.1.23-bin" value="project"/>
+		<level name="javax.servlet.jsp.jstl-1.2.1" value="project"/>
+		<level name="Tomcat 7.0" value="application_server_libraries"/>
+	</levels>
+</component>

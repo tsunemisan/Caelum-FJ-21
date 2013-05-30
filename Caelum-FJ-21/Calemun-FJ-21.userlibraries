@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.23-bin">
+    <archive path="C:/Users/Thiago/Documents/workspace/jdbc/lib/mysql-connector-java-5.1.23-bin.jar" />
+  </library>
+  <library name="javax.servlet.jsp.jstl-1.2.1">
+    <archive path="C:/Users/Thiago/Downloads/javax.servlet.jsp.jstl-1.2.1.jar" />
+    <archive path="C:/Users/Thiago/Downloads/javax.servlet.jsp.jstl-api-1.2.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
